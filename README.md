@@ -1,2 +1,2 @@
 # civ6-ai
-This mod seeks to improve the AI's gameplay in Civilization VI.
+A mod that seeks to improve the functionality of the AI for the game Hearts of Iron IV. 
